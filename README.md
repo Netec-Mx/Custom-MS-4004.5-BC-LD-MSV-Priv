@@ -1,4 +1,4 @@
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/Netec-Mx/261006-Custom-MS-4004-5-BC-LD-MSV-Priv/main/assets/LogoNetec.png" alt="NETEC" width="180" />
 </p>
 
