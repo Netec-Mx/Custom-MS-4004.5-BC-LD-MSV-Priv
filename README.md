@@ -16,27 +16,27 @@ Este curso ofrece una experiencia práctica para profesionales de Finanzas, Ries
   - Duración estimada: 9 min
   - Descripción: Diseñar una estrategia para el análisis de alta volumetría.
     
-### [Práctica 2](Capitulo02/README.md#práctica-construir-una-rúbrica-de-clasificación-de-riesgo-a-partir-de-reglas-de-negocio-ficticias-con-copilot)
+### [Práctica 2](Capitulo02/README.md)
   
   - Duración estimada: 19 min
   - Descripción: Construir rúbricas de riesgo a partir de reglas de negocio.
     
-###  [Práctica 3](Capitulo03/README.md#práctica-utilizar-investigador-researcher-para-analizar-un-sector-real-e-incorporar-evidencia-externa-a-la-evaluación-ficticia)
+###  [Práctica 3](Capitulo03/README.md)
   
   - Duración estimada: 14 min
   - Descripción: Incorporar factores externos mediante el agente Investigador.
 
-### [Práctica 4](Capitulo04/README.md#práctica-construir-el-expediente-de-análisis-en-copilot-notebooks-incorporando-rúbrica-hallazgos-documentales-y-resultados-de-investigador)
+### [Práctica 4](Capitulo04/README.md)
   
   - Duración estimada: 19 min
   - Descripción: Gestionar y consolidar evidencia con Copilot Notebooks.
     
-### [Práctica 5](Capitulo05/README.md#práctica-utilizar-analista-analyst-para-identificar-patrones-y-variaciones-en-información-cuantitativa-ficticia-del-expediente)
+### [Práctica 5](Capitulo05/README.md)
   
   - Duración estimada: 15 min
   - Descripción: Analizar evidencia cuantitativa mediante el agente Analista.
 
-### [Práctica 6](Capitulo06/README.md#práctica-evaluar-el-expediente-con-la-rúbrica-y-generar-una-matriz-de-clasificación-trazable-con-copilot)
+### [Práctica 6](Capitulo06/README.md)
   
   - Duración estimada: 20 min
   - Descripción: Aplicar la rúbrica y sustentar una clasificación de riesgo.
