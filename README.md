@@ -11,7 +11,7 @@ Este curso ofrece una experiencia práctica para profesionales de Finanzas, Ries
 
 ## Lista de laboratorios
 
-### [Práctica1](Capitulo01/README.md)
+### [Práctica 1](Capitulo01/README.md)
   
   - Duración estimada: 9 min
   - Descripción: Diseñar una estrategia para el análisis de alta volumetría.
